@@ -14,3 +14,28 @@ gen/
 
 # Local configuration file (sdk path, etc)
 local.properties
+
+# Eclipse configuration files
+*.pydevproject
+.project
+.metadata
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+.classpath
+.settings/
+.loadpath
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# CDT-specific
+.cproject
+
+# PDT-specific
+.buildpath
